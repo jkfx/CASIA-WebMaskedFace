@@ -32,7 +32,7 @@ CASIA-WebMaskedFace 有 10,575 个实体人物， 494,414 张人脸图像。
 
 ## 下载地址
 
-- [Kaggle]()
+- [Kaggle](https://www.kaggle.com/datasets/geekfx/casia-webmaskedface)
 - [百度网盘]()
 - [Google Drive]()
 - [GitHub]()
