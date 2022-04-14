@@ -6,7 +6,7 @@ Based on CASIA-WebFace Dataset using MaskTheFace tool mask the face images of da
 
 ## 数据集介绍
 
-此数据集是在源数据集 [CASIA-Webface](https://arxiv.org/pdf/1411.7923v1.pdf) 之上，使用 [MaskTheFace](https://arxiv.org/abs/2008.11104) 工具对 CASIA-Webface 数据集中的图像进行佩戴口罩，此数据所涉及到的口罩类型有：Surgical（白色医用外科口罩）、Surgical Blue（蓝色医用外科口罩）、N95、KN95以及Cloth（黑色布质口罩）。
+此数据集是在源数据集 [CASIA-Webface](https://arxiv.org/pdf/1411.7923v1.pdf) 之上，使用 [MaskTheFace](https://arxiv.org/abs/2008.11104) 工具对 CASIA-Webface 数据集中的图像进行佩戴口罩，此数据所涉及到的口罩类型有：Surgical（白色医用外科口罩）、Surgical Blue（蓝色医用外科口罩）、N95、KN95以及Cloth（黑色布质口罩）。口罩的分布类型都是均匀分布随机生成的。
 
 ![image](https://tvax4.sinaimg.cn/large/006VTcCxly1h191411yh2j313w0aujyr.jpg)
 
@@ -19,6 +19,16 @@ CASIA-WebMaskedFace 有 10,575 个实体人物， 494,414 张人脸图像。
 武汉大学国家多媒体软件工程技术研究中心在最早做了相关的 [研究](https://arxiv.org/abs/2003.09093) ，也提出了当时最大的模拟口罩人脸数据集和一个真实世界的人脸佩戴口罩的数据集。
 
 [Aqeel Anwar, Arijit Raychowdhury](https://arxiv.org/abs/2008.11104) 在之后也提出了一个真实世界佩戴口罩的人脸数据集，并且提出了一个工具，也就是上文提到的 [MaskTheFace](https://github.com/aqeelanwar/MaskTheFace) 用来在已有的人脸数据集上进行模拟佩戴口罩。
+
+### 数据示例
+
+![image](https://tvax1.sinaimg.cn/large/006VTcCxly1h191m9mhfyj30pf0atwme.jpg)
+
+![image](https://tvax4.sinaimg.cn/large/006VTcCxly1h191pig6fmj30pm0al7be.jpg)
+
+![image](https://tvax2.sinaimg.cn/large/006VTcCxly1h191ojwfj1j30pd0aswmv.jpg)
+
+![image](https://tvax1.sinaimg.cn/large/006VTcCxly1h191qg3bm0j30pe0amwn6.jpg)
 
 ## 下载地址
 
